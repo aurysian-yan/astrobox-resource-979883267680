@@ -1,0 +1,74 @@
+{
+  "item": {
+    "id": "979883267680",
+    "restype": "watchface",
+    "name": "拾光成影相册表盘",
+    "description": "一款支持多设备的动态拍立得风格相册表盘，预置 6 张精美风景壁纸，支持多数据展示。",
+    "preview": [
+      "media/cover-A.png",
+      "media/cover-1.png",
+      "media/output.webp",
+      "media/cover-2-1.png",
+      "media/cover-2-2.png",
+      "media/cover-2.png",
+      "media/cover-7.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover-1.png",
+    "author": [
+      {
+        "name": "aurysian",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-rw5-1.0.bin",
+      "versionCode": 65536
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-rw5-1.0.bin",
+      "versionCode": 65536
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-rw6-1.0.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-10-1.0.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-10p-1.0.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-10-1.0.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-11-1.0.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/sgcy-snap-11-1.0.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/aurysian-yan/astrobox-resource-979883267680/main/wallpaper/wallpaper.json"
+    }
+  }
+}
